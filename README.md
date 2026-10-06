@@ -1,7 +1,11 @@
-//Pensei em aplicar sobre o drif natural x artificial, ficaria assim:
-Robustez de modelos de Machine Learning diante de Concept Drift: uma avaliação experimental com mudanças 
-naturais e induzidas em dados temporais
+```markdown
+Título provisório
 
+Robustez de modelos de Machine Learning sob Concept Drift: comparação entre mudanças naturais e artificialmente induzidas em dados temporais
+
+🎯 Pergunta de pesquisa
+
+Como diferentes tipos de concept drift, naturais e artificialmente induzidos, afetam o desempenho de modelos de Machine Learning e a eficácia de diferentes estratégias de adaptação?
 Estrutura:
 ```text
         
