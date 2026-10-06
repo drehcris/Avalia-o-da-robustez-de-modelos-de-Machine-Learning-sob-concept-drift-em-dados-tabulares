@@ -1,11 +1,13 @@
 ```markdown
 Título provisório
 
-Robustez de modelos de Machine Learning sob Concept Drift: comparação entre mudanças naturais e artificialmente induzidas em dados temporais
+Robustez de modelos de Machine Learning sob Concept Drift: comparação entre mudanças naturais e
+artificialmente induzidas em dados temporais
 
-🎯 Pergunta de pesquisa
+Pergunta de pesquisa
 
-Como diferentes tipos de concept drift, naturais e artificialmente induzidos, afetam o desempenho de modelos de Machine Learning e a eficácia de diferentes estratégias de adaptação?
+Como diferentes tipos de concept drift, naturais e artificialmente induzidos, afetam o desempenho de modelos de Machine Learning e
+a eficácia de diferentes estratégias de adaptação?
 Estrutura:
 ```text
         
