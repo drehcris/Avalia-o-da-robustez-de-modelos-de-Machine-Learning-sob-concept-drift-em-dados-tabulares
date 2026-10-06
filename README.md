@@ -10,7 +10,6 @@ Como diferentes tipos de concept drift, naturais e artificialmente induzidos, af
 a eficácia de diferentes estratégias de adaptação?
 
 Estrutura:
-```text
         
                     PESQUISA
                        │
