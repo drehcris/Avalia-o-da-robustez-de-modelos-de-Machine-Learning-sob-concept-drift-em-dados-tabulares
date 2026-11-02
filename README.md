@@ -44,8 +44,11 @@ Estrutura:
           NATURAL × ARTIFICIAL
 
 atualizações: 
-09/10 - o resultado False indica que existe pelo menos uma posição em que uma data aparece antes de outra data menor, temho que investigar
-aqui já passamos pelas fases: carregamento do dataset; importação do River e carregamento do Elec2; conversão para DataFrame; organização das observações em uma tabela pandas; análise das dimensões e estamos na exploração temporal
+09/10 - o resultado False indica que existe pelo menos uma posição em que uma data aparece antes de outra data menor,
+temho que investigar
+aqui já passamos pelas fases: carregamento do dataset; importação do River e carregamento do Elec2; c
+onversão para DataFrame; organização das observações em uma tabela pandas; análise das dimensões e estamos na
+exploração temporal
 
 
           
