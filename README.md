@@ -42,3 +42,8 @@ Estrutura:
                        ▼
                 COMPARAÇÃO
           NATURAL × ARTIFICIAL
+
+atualizações: 
+09/10 - o resultado False indica que existe pelo menos uma posição em que uma data aparece antes de outra data menor, temho que investigar
+
+          
